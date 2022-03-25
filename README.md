@@ -1,5 +1,6 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=somethingnew)](https://solved.ac/somethingnew)
 
+Blog : https://happiness-life.tistory.com
 <!--
 **simonkim1/simonkim1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
