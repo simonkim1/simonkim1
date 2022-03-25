@@ -1,4 +1,4 @@
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={somethingnew})](https://solved.ac/profile/{somethingnew})
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=somethingnew)](https://solved.ac/profile/somethingnew)
 
 
 <!--
