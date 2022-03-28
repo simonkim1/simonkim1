@@ -26,10 +26,6 @@
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white&color=be3c1b)
 #
 
-### Blog
-https://happiness-life.tistory.com
-
-
 <!--
 **simonkim1/simonkim1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
