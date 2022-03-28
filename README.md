@@ -1,4 +1,5 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=somethingnew)](https://solved.ac/somethingnew)
+#
 
 ### Skills
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
