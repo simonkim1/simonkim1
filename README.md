@@ -1,7 +1,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=somethingnew)](https://solved.ac/somethingnew)
 #
 
-### Skills
+<!-- ### Skills
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
@@ -29,7 +29,7 @@
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white&color=be3c1b)
-#
+# -->
 
 <!--
 **simonkim1/simonkim1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
