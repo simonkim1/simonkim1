@@ -1,4 +1,4 @@
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=somethingnew)](https://solved.ac/somethingnew)
+![![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=somethingnew)](https://solved.ac/somethingnew)
 #
 
 <!-- ### Skills
